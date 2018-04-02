@@ -1,0 +1,7 @@
+---- union Matches (2 in 2 files) ----
+Core_cm3.h (f:\易飞行-千寻\core):  __O  union  
+Main.h (f:\易飞行-千寻\main):typedef union
+---- union Search Errors Encountered (2) ----
+The following 2 files could not be processed:
+F:\易飞行-千寻\SI\SI.IAB : File could not be opened.
+F:\易飞行-千寻\SI\SI.IMB : File could not be opened.
